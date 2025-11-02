@@ -1,0 +1,67 @@
+C:\Users\student\source\repos\LibraryApp\LibraryApp\bin\Debug\net8.0-windows\LibraryApp.exe
+C:\Users\student\source\repos\LibraryApp\LibraryApp\bin\Debug\net8.0-windows\LibraryApp.deps.json
+C:\Users\student\source\repos\LibraryApp\LibraryApp\bin\Debug\net8.0-windows\LibraryApp.runtimeconfig.json
+C:\Users\student\source\repos\LibraryApp\LibraryApp\bin\Debug\net8.0-windows\LibraryApp.dll
+C:\Users\student\source\repos\LibraryApp\LibraryApp\bin\Debug\net8.0-windows\LibraryApp.pdb
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\LibraryApp_MarkupCompile.cache
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\LibraryApp_MarkupCompile.lref
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.g.resources
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.AssemblyInfo.cs
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.dll
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\refint\LibraryApp.dll
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.pdb
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.genruntimeconfig.cache
+C:\Users\student\source\repos\LibraryApp\LibraryApp\obj\Debug\net8.0-windows\ref\LibraryApp.dll
+C:\Users\asdfa\source\repos\Library\LibraryApp\bin\Debug\net8.0-windows\LibraryApp.exe
+C:\Users\asdfa\source\repos\Library\LibraryApp\bin\Debug\net8.0-windows\LibraryApp.deps.json
+C:\Users\asdfa\source\repos\Library\LibraryApp\bin\Debug\net8.0-windows\LibraryApp.runtimeconfig.json
+C:\Users\asdfa\source\repos\Library\LibraryApp\bin\Debug\net8.0-windows\LibraryApp.dll
+C:\Users\asdfa\source\repos\Library\LibraryApp\bin\Debug\net8.0-windows\LibraryApp.pdb
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp_MarkupCompile.cache
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp_MarkupCompile.lref
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.g.resources
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.AssemblyInfo.cs
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.dll
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\refint\LibraryApp.dll
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.pdb
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.genruntimeconfig.cache
+C:\Users\asdfa\source\repos\Library\LibraryApp\obj\Debug\net8.0-windows\ref\LibraryApp.dll
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\bin\Debug\net8.0-windows\LibraryApp.exe
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\bin\Debug\net8.0-windows\LibraryApp.deps.json
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\bin\Debug\net8.0-windows\LibraryApp.runtimeconfig.json
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\bin\Debug\net8.0-windows\LibraryApp.dll
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\bin\Debug\net8.0-windows\LibraryApp.pdb
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\LoginWindow.baml
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\LoginWindow.g.cs
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp_MarkupCompile.cache
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp_MarkupCompile.lref
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.g.resources
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.AssemblyInfo.cs
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.sourcelink.json
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.dll
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\refint\LibraryApp.dll
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.pdb
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\LibraryApp.genruntimeconfig.cache
+C:\Users\asdfa\Desktop\Programowanie\szkoła\projekt informatyczny\Library\Library\LibraryApp\obj\Debug\net8.0-windows\ref\LibraryApp.dll
